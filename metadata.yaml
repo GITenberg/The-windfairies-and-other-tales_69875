@@ -1,0 +1,48 @@
+_repo: The-windfairies-and-other-tales_69875
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cockerell, Olive J. (Olive Juliet)
+    alias: Cockerell, Olive Juliet
+    birthdate: 1869
+    deathdate: 1910
+    gutenberg_agent_id: '55468'
+    url: http://www.gutenberg.org/2009/agents/55468
+creator:
+  author:
+    agent_name: De Morgan, Mary
+    aliases:
+    - Morgan, Mary de
+    - Oakchest, Mrs.
+    - Mrs. Oakchest
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '39748'
+    url: http://www.gutenberg.org/2009/agents/39748
+    wikipedia: https://en.wikipedia.org/wiki/Mary_De_Morgan
+description: ''
+gutenberg_issued: '2023-01-24'
+identifiers:
+  gutenberg: '69875'
+language: en
+pgterms:marc904: https://archive.org/details/windfairiesother00demo/page/n5/mode/2up
+pgterms:marc905: 20201207081554demorgan
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: Brian Wilsden, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United Kingdom: Seeley & Co.,1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The windfairies -- Vain Kesta -- The pool and the tree -- Nanina's
+  sheep -- The gipsy's cup -- The story of a cat -- Dumb Othmar -- The rain maiden
+  -- The ploughman and the gnome.
+title: The windfairies, and other tales
+url: http://www.gutenberg.org/ebooks/69875
